@@ -5,7 +5,7 @@ This project demonstrates a Security Operations Center (SOC) monitoring pipeline
 
 It includes:
 - OpenSearch Domain Setup
-  Screenshots/AWS/OpenSearchDashboard.png
+  ![Domain](Screenshots/AWS/OpenSearchDashboard.png)
 - Index Management
 - Log Ingestion using Python
 - Visualization & Dashboards
@@ -31,4 +31,5 @@ Screenshots available in /screenshots folder.
 - Python
 - OpenSearch-Py
 - Kibana / OpenSearch Dashboards
+
 
