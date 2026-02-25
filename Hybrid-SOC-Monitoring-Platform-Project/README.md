@@ -7,8 +7,14 @@ It includes:
 - OpenSearch Domain Setup
   ![Domain](Screenshots/AWS/OpenSearchDashboard.png)
 - Index Management
+  ![Index](Screenshots/AWS/soc-logs_IndexManagement.png)
 - Log Ingestion using Python
+  ![Logs](Screenshots/AWS/LogData.png)
 - Visualization & Dashboards
+  ![Chart1](Screenshots/AWS/TopUsersChart.png)
+  ![Chart2](Screenshots/AWS/TopEvenTypesChart.png)
+  ![Chart3](Screenshots/AWS/EventsOverTImeCHart.png)
+  ![Chart4](Screenshots/AWS/DetailedLogsChart.png)
 - Sample Log Generator
 
 ## Architecture
@@ -31,5 +37,6 @@ Screenshots available in /screenshots folder.
 - Python
 - OpenSearch-Py
 - Kibana / OpenSearch Dashboards
+
 
 
